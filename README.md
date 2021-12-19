@@ -1,6 +1,9 @@
 # VEP-721
 This standard is based on https://eips.ethereum.org/EIPS/eip-721. It is intent on providing the VEP-721 standard for Vite.
 
+### Demo Video
+https://youtu.be/UDLaocOfWwM
+
 ## Simple Summary
 A standard interface for non-fungible tokens.
 
